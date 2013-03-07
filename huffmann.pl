@@ -1,5 +1,3 @@
-%Fisicaro Simone 755547 - Longoni Mattia 753403 - Giliberto Alessandro 748108
-
 % GENERA UN HUFFMAN TREE, L'INPUT VIENE DATO NELLA FORMA:
 % generate_huffman_tree([['a',5],['b',1],['c',2],['d',8]], HT).
 generate_huffman_tree([L|INPUT], GENERATED) :-
